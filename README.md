@@ -1,2 +1,2 @@
 # Applied-Data-Science
-Fall 2024
+Projects for Fall 2024
